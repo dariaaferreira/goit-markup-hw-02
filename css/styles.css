@@ -82,7 +82,6 @@ a.current {
     font-weight: 500;
     letter-spacing: 0.02em;
     color: var(--secondary-color);
-
 }
 
 .nav-contact a:focus, .nav-contact a:hover {
