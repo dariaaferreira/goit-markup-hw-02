@@ -57,7 +57,7 @@ ul, a {
     color: var(--logo-color);
 }
 
-.logoheader {
+.web {
     color: var(--active-color);
 }
 
@@ -192,6 +192,10 @@ a.current {
     color: var(--white-color);
     font-size: 26px;
     letter-spacing: 0.03em;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    font-family: var(--secondary-font);
+\
 }
 
 .footer-items a {
