@@ -73,7 +73,7 @@ ul, a {
     color: var(--active-color);
 }
 
-.site-nav .current {
+a.current {
     color: var(--active-color);
 }
 
