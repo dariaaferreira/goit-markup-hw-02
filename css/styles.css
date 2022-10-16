@@ -91,14 +91,14 @@ a.current {
 
 /* M A I N */
 
-.section {
+.features {
     background: var(--bg-dark);
     text-align: center;
     padding: 50px;
 
 }
 
-.section-title {
+.features-title {
     font-size: 44px;
     line-height: 1.36;
     font-weight: 900;
