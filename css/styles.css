@@ -92,12 +92,12 @@ a.current {
 
 /* M A I N */
 
-.features {
+.section {
     background: var(--bg-dark);
     text-align: center;
 }
 
-.features-title {
+.section-title {
     font-size: 44px;
     line-height: 1.36;
     font-weight: 900;
@@ -131,7 +131,7 @@ a.current {
     background-color: var(--bg-color-btn);
 }
 
-.description-title {
+.features-title {
     line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -139,7 +139,7 @@ a.current {
     color: var(--main-color);
 }
 
-.description-text {
+.features-text {
     line-height: 1.71;
     letter-spacing: 0.03em;
 
